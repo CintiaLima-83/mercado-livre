@@ -12,10 +12,10 @@ O objetivo foi aplicar melhorias de performance e experiência do usuário, gara
 ---
 
 ## 🔎 Análise Inicial
-- **Desempenho:** 99  
-- **Acessibilidade:** 95  
-- **Práticas recomendadas:** 92  
-- **SEO:** 100  
+- **Desempenho:** 98 
+- **Acessibilidade:** 81  
+- **Práticas recomendadas:** 100 
+- **SEO:** 91
 
 ### Gargalos identificados
 - Imagens pesadas e sem compressão.  
@@ -64,10 +64,10 @@ O objetivo foi aplicar melhorias de performance e experiência do usuário, gara
 ## 📊 Comparativo Antes/Depois
 | Métrica              | Antes | Depois |
 |----------------------|-------|--------|
-| Desempenho           | 99    | 100    |
-| Acessibilidade       | 95    | 100    |
-| Práticas recomendadas| 92    | 100    |
-| SEO                  | 100   | 100    |
+| Desempenho           | 98    | 100    |
+| Acessibilidade       | 81    | 100    |
+| Práticas recomendadas| 100   | 100    |
+| SEO                  | 91    | 100    |
 
 ### Prints
 - Relatório inicial: `/docs/lighthouse-before.png`  
